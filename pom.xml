@@ -68,7 +68,7 @@
     </build>
 
     <scm>
-        <developerConnection></developerConnection>
+        <developerConnection>scm:git:git@github.com:hasika-tutorial-projects/sfg-pet-clinic.git</developerConnection>
     </scm>
 
 </project>
